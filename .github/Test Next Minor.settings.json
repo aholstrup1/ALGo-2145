@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v8.2/.Modules/settings.schema.json",
-  "artifact": "////nextminor",
+  "artifact": "bcinsider/Sandbox/28.0.44516.0//latest",
   "cacheImageName": "",
   "versioningStrategy": 15
 }
